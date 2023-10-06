@@ -4,10 +4,10 @@ Using machine learning models and feature engineering to find pattern and  predi
 This project analyzes a publicly available dataset consisting of 9578 records of data and 14 columns of variables provided by **LendingClub.com** from 2007 to 2012. This project will provide a detailed analysis investigating the relative variables’ influence on the interest rate to help the business determine which areas to focus on when deciding the interest rate of loans being borrowed to clients.
 
 **Project Summary:**
-Project Name: Loan Interest Rate Risk Analysis
-Data Source: Kaggle dataset from LendingClub.com
-Business Objectives: Identify key variables influencing loan interest rates.
-
+Project Name: Loan Interest Rate Risk Analysis<br>
+Data Source: Kaggle dataset from LendingClub.com<br>
+Business Objectives: Identify key variables influencing loan interest rates.<br>
+<p>
 **Key Achievements:**
 Conducted Exploratory Data Analysis (EDA) using Python.
 Employed Synthetic Minority Over-sampling Technique (SMOTE) to address imbalanced data.
